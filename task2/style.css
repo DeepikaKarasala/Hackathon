@@ -1,0 +1,25 @@
+
+body {
+    background-color: #7ceee8;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
